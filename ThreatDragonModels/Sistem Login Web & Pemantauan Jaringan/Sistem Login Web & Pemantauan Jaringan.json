@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Sistem Login Web & Pemantauan Jaringan",
+    "owner": "Putra Eka Jaya Sukarta",
+    "description": "Pemodelan ancaman dan desain keamanan siber untuk mengatasi kebocoran kredensial pada protokol HTTP hasil pemantauan Wireshark.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Alur Autentikasi dan Pengamanan HTTP",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Diagram DFD proses login dan mitigasi sniffing Wireshark"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
